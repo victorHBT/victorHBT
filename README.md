@@ -149,3 +149,5 @@ Link para plataforma [Lattes](http://lattes.cnpq.br/4388203560950263)
   />
 
 </p>
+
+![snake gif](https://github.com/victorHBT/victorHBT/blob/output/github-contribution-grid-snake.svg)
