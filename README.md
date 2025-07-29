@@ -23,11 +23,11 @@ Link para plataforma [Lattes](http://lattes.cnpq.br/4388203560950263)
             src="https://custom-icon-badges.demolab.com/badge/-Follow-ea4aaa?style=for-the-badge&logo=heart&logoColor=white)]"
         />
     </a> 
-    <a href="https://github.com/victorHBT">
+    <a href="https://www.linkedin.com/in/tavaresvh/">
         <img 
-            alt="Meu Perfil" 
-            title="Me siga" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIN-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff"
+            alt="Meu Linkedin" 
+            title="Linkedin" 
+            src="https://custom-icon-badges.demolab.com/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff"
         />
     </a> 
     <a href="https://github.com/victorHBT?tab=stars">
